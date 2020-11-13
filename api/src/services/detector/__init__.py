@@ -1,0 +1,1 @@
+from src.services.detector.detector import Detector
