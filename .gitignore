@@ -1,8 +1,10 @@
 # CUSTOM
  ./dataset
- ./tmp
+ ./dataset/*
+ tmp
+ tmp/*
  =2.0.0rc0
-#
+
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,pycharm,pycharm+all,pycharm+iml,jetbrains,jetbrains+iml,jetbrains+all,jupyternotebooks
@@ -545,3 +547,6 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,pycharm+all,pycharm+iml,jetbrains,jetbrains+iml,jetbrains+all,jupyternotebooks
+/dataset/
+/tmp/
+/=2.0.0rc0
